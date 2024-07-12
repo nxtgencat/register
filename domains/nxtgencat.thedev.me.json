@@ -1,1 +1,22 @@
+{
+  "subdomain": "nxtgencat",
+  "domain": "thedev.me",
+  "public_email": "nxtgencat@outlook.com",
+  "github_username": "nxtgencat",
+  "description": "Host my portfolio",
 
+  "records": {
+    "A": [
+      "192.0.2.1",
+      "192.0.2.2"
+    ]
+    "CNAME": [
+      "example.com"
+    ],
+    "MX": [
+      "mail1.example.com",
+      "mail2.example.com"
+    ]
+  },
+  "proxied": true
+}
